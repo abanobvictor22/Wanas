@@ -96,7 +96,7 @@ export default function CreateComment() {
           <textarea
             ref={body}
             rows="1"
-            placeholder="Write a comment..."
+            placeholder="Write a post..."
             className="w-full bg-transparent text-slate-700 text-sm md:text-base outline-none py-1 resize-none wrap-break-word whitespace-pre-wrap leading-relaxed overflow-y-auto max-h-32"
           ></textarea>
 
